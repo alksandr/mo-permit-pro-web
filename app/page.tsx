@@ -287,7 +287,7 @@ export default function MOPermitProLanding() {
           <div className="text-center">
             <p className="text-lg mb-4">© 2025 MO Permit Pro</p>
             <div className="flex flex-wrap justify-center gap-6 mb-6">
-              <Link href="#" className="hover:text-blue-400 transition-colors">
+              <Link href="/privacy" className="hover:text-blue-400 transition-colors">
                 Privacy Policy
               </Link>
               <Link href="#" className="hover:text-blue-400 transition-colors">
